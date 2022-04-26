@@ -1,5 +1,6 @@
 {
   "expo": {
+    "scheme": "test-scheme",
     "name": "BUZBOT",
     "slug": "BUZBOT",
     "version": "1.0.0",
